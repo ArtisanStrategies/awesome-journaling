@@ -32,6 +32,7 @@ A curated list of resources for keeping a journal: methods, apps, open-source to
 - [Diarium](https://diariumapp.com) - A diary for Windows, Android and Apple devices that can pull in your calendar, photos and other activity.
 - [Penzu](https://penzu.com) - An online journal you write in the browser.
 - [Obsidian daily notes](https://obsidian.md/help/plugins/daily-notes) - A note for each day in Obsidian, kept as plain Markdown files.
+- [Inner Child Journal Prompt Generator](https://alexzah.com/tools/inner-child-journal-prompt-generator/) - A free web tool: pick what you want to write toward, how gentle you want it and how much time you have, and it gives three prompts. Nothing you write is entered or saved.
 
 ## Open source
 
